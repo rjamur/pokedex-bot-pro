@@ -1,5 +1,7 @@
 # 🤖 Pokedex Bot - Projeto Python Pro
 
+🔗 **Repositório Oficial no GitHub:** [Acesse o código-fonte aqui](https://github.com/rjamur/pokedex-bot-pro)
+
 Este projeto foi desenvolvido como material didático e prático para o curso **Python Pro**. Trata-se de um bot para Discord que consome a PokéAPI de forma assíncrona, trazendo dados reais para dentro do chat.
 
 ## 🎯 Objetivo Pedagógico
